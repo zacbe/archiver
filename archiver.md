@@ -26,7 +26,7 @@ Tab 2
 {% endtab %}
 {% endtabs %}
 
-{% api-method method="get" host="www.alyne.com" path="" %}
+{% api-method method="get" host="www.alyne.com" path="/v1/:model/:recordId/comments/:channel" %}
 {% api-method-summary %}
 attachments
 {% endapi-method-summary %}
