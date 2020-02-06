@@ -12,7 +12,7 @@ Some test
 const foo = 'test'
 ```
 
+![twitter-img](.gitbook/assets/twitter-cover-image%20%281%29.jpg)
 
-![twitter-img](docs/img/twitter-cover-image.jpg)
-
+![](.gitbook/assets/screen-shot-2020-02-05-at-13.52.43.png)
 
