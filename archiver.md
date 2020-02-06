@@ -13,6 +13,6 @@ const foo = 'test'
 ```
 
 
-![twitter-img](docs/twitter-cover-image.jpg)
+![twitter-img](docs/img/twitter-cover-image.jpg)
 
 
