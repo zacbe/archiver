@@ -16,4 +16,4 @@ Good thing
 Bad thing
 {% endhint %}
 
-[source-a-readme.md](/../../.gitbook/assets/alyne-wiki.md)
+[source-a-readme.md](/../../tree/master/.gitbook/assetsgitbook/assets/alyne-wiki.md)
